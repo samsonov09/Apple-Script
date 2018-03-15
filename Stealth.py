@@ -1,7 +1,7 @@
 import webbrowser
 import time
 
-# number of visiting webpages in google chrome = 30 times (no time wait)
+# number of visiting webpages in google chrome = 30 times (WAIT TIME REMOVED!)
 
 
 url = 'https://yahoo.com'
