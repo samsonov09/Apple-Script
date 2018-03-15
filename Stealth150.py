@@ -1,11 +1,11 @@
 import webbrowser
 import time
 
-# number of visiting webpages in google chrome = 28 times (no time wait)
+# number of visiting webpages in google chrome = 150 times (WAIT TIME REMOVED)
 
 
 url = 'https://yahoo.com'
-url2 = 'https://www.paypal.com'
+url2 = 'https://chrome.google.com/webstore/category/extensions?hl=en'
 url3 = 'https://dlptest.com'
 
 chrome = 'open -a /Applications/Google\ Chrome.app %s'
