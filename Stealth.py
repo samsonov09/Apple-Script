@@ -66,4 +66,8 @@ webbrowser.get(chrome).open_new(url)
 
 webbrowser.get(chrome).open_new(url3)
 
-print("all done, number of visiting webpages in google chrome = 28 times")
+webbrowser.get(chrome).open_new(url2)
+
+webbrowser.get(chrome).open_new(url)
+
+print("all done, number of visiting webpages in google chrome = 30 times")
