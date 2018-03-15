@@ -5,7 +5,7 @@ import time
 
 
 url = 'https://yahoo.com'
-url2 = 'https://www.paypal.com'
+url2 = 'https://chrome.google.com/webstore/category/extensions?hl=en'
 url3 = 'https://dlptest.com'
 
 chrome = 'open -a /Applications/Google\ Chrome.app %s'
