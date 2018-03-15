@@ -12,6 +12,18 @@ chrome = 'open -a /Applications/Google\ Chrome.app %s'
 
 webbrowser.get(chrome).open_new(url)
 
+webbrowser.get(chrome).open_new(url2)
+
+time.sleep(1)
+
+webbrowser.get(chrome).open_new(url2)
+
+webbrowser.get(chrome).open_new(url3)
+
+time.sleep(1)
+
+webbrowser.get(chrome).open_new(url)
+
 webbrowser.get(chrome).open_new(url3)
 
 time.sleep(1)
