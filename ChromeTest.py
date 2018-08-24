@@ -3,9 +3,8 @@ import webbrowser
 import time
 import os
 
-url = 'https://yahoo.com'
-url2 = 'https://chrome.google.com/webstore/category/extensions?hl=en'
-url3 = 'https://dlptest.com'
+url2 = 'https://chrome.google.com'
+url3 = 'https://google.com'
 
 chrome = 'open -a /Applications/Google\ Chrome.app %s'
 
