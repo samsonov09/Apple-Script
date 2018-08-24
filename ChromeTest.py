@@ -8,7 +8,7 @@ url3 = 'https://dlptest.com'
 
 chrome = 'open -a /Applications/Google\ Chrome.app %s'
 
-for i in range(1000):
+for i in range(10,3):
 	print("In progress")
 	time.sleep(5)
 	webbrowser.get(chrome).open_new(url2)
